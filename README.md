@@ -1,3 +1,3 @@
 # Cobranca
 
-Este porjeto e somente para estodos 
+Este porjeto e somente para estudos 
